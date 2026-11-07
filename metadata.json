@@ -1,0 +1,6 @@
+{
+  "name": "Nutri Herb - Herbal Hair Tonic Store",
+  "description": "Premium 100% Herbal Hair Tonic by The Remedies Herbal Pharmaceuticals. Stop hair fall, boost natural growth, and order via WhatsApp 03138622533 with Cash On Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
